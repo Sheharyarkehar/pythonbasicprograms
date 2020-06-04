@@ -5,4 +5,4 @@ for i in range(len(a)):
       temp=a[i]
       a[i]=a[j]
       a[j]=temp
-print(a)
+print('Sorted array=',a)
